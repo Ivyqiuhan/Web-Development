@@ -1,2 +1,2 @@
 # Web-Development
-Tried to build a webste with full-stack, plan to cooperate with JavaScript, Node.js, Python, MySQL
+Self learned HTML and CSS, and also cooperated simple Javascript code to make a toggle bar.
